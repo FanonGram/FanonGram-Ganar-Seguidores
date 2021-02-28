@@ -11,6 +11,7 @@ body {
 	margin: auto;
 	text-decoration:none;
 	background-size: cover;
+	background:url('../img/paisaje1.png') no-repeat 0 -400px;
   
     
 }
